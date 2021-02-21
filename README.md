@@ -4,7 +4,7 @@ Public project to summarise the plans and progress for the multi blockchain [Chi
 # Project Management
 The [Projects](https://github.com/chimera-blockchain/chimera-development/projects) section of this GitHub Repository is leveraged for development based project management.  Currently the following projects are available for this development repository:
 1. [ ] [Staking - ERA Token - Binance Smart Chain (BSC)](https://chimera.network/)
-2. [ ] [Staking - ERA Token - Tron (BSC)](https://chimera.network/)
+2. [ ] [Staking - ERA Token - Tron](https://chimera.network/)
 
 # Documentation
 This is provided in the [wiki for this repository.](https://github.com/chimera-blockchain/chimera-development/wiki)
